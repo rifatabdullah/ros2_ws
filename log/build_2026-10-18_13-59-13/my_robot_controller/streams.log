@@ -1,0 +1,33 @@
+[0.682s] Invoking command in '/home/haxx/ros/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/haxx/ros/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haxx/ros/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/haxx/ros/ros2_ws/build/my_robot_controller/build install --record /home/haxx/ros/ros2_ws/build/my_robot_controller/install.log --install-scripts $base/lib/my_robot_controller --single-version-externally-managed install_data
+[0.848s] running egg_info
+[0.848s] creating ../../build/my_robot_controller/my_robot_controller.egg-info
+[0.849s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[0.849s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[0.849s] writing entry points to ../../build/my_robot_controller/my_robot_controller.egg-info/entry_points.txt
+[0.849s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[0.849s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[0.849s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.850s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.851s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.851s] running build
+[0.851s] running build_py
+[0.851s] creating /home/haxx/ros/ros2_ws/build/my_robot_controller/build
+[0.851s] creating /home/haxx/ros/ros2_ws/build/my_robot_controller/build/lib
+[0.851s] creating /home/haxx/ros/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[0.851s] copying my_robot_controller/__init__.py -> /home/haxx/ros/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[0.851s] running install
+[0.851s] running install_lib
+[0.852s] creating /home/haxx/ros/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.852s] copying /home/haxx/ros/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/haxx/ros/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.852s] byte-compiling /home/haxx/ros/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[0.852s] running install_data
+[0.852s] creating /home/haxx/ros/ros2_ws/install/my_robot_controller/share/ament_index
+[0.852s] creating /home/haxx/ros/ros2_ws/install/my_robot_controller/share/ament_index/resource_index
+[0.852s] creating /home/haxx/ros/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.852s] copying resource/my_robot_controller -> /home/haxx/ros/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.853s] copying package.xml -> /home/haxx/ros/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[0.853s] running install_egg_info
+[0.854s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/haxx/ros/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[0.854s] running install_scripts
+[0.869s] writing list of installed files to '/home/haxx/ros/ros2_ws/build/my_robot_controller/install.log'
+[0.886s] Invoked command in '/home/haxx/ros/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/haxx/ros/ros2_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/haxx/ros/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/haxx/ros/ros2_ws/build/my_robot_controller/build install --record /home/haxx/ros/ros2_ws/build/my_robot_controller/install.log --install-scripts $base/lib/my_robot_controller --single-version-externally-managed install_data
